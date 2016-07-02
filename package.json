@@ -9,8 +9,10 @@
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
   },
-  "license": "MIT",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3",
   "keywords": [
-    "jetpack"
+    "Add",
+    "botnet",
+    "voluntary"
   ]
 }
