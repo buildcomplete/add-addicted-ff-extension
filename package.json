@@ -1,0 +1,16 @@
+{
+  "title": "ADdicted botnet",
+  "name": "addictednet",
+  "version": "0.0.1",
+  "description": "Share the adds you see with other using ADdicted botnet, and watch adds other sees",
+  "main": "index.js",
+  "author": "buildcomplete",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
