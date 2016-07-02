@@ -2,7 +2,7 @@
   "title": "ADdicted botnet",
   "name": "addictednet",
   "version": "0.0.1",
-  "description": "Share the adds you see with other using ADdicted botnet, and watch adds other sees",
+  "description": "Share the adds you see with other using ADdicted botnet, get the plugin source code from: https://github.com/buildcomplete/add-addicted-ff-extension and the server source code from: https://github.com/buildcomplete/addicted-botsrv to run our own network",
   "main": "index.js",
   "author": "buildcomplete",
   "engines": {
